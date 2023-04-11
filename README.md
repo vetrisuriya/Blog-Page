@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://rvs-waitlist.vercel.app/">Preview Website</a>
+    <a href="https://rvs-blog-page.vercel.app/">Preview Website</a>
   </h3>
 </div>
 
